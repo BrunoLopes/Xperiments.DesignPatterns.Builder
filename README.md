@@ -1,2 +1,2 @@
-# Xperiments.DesignPatterns.ChainOfResponsibility
-A little implementation of Chain Of Responsibility pattern
+# Xperiments.DesignPatterns.Builder
+A little implementation of Builder pattern
